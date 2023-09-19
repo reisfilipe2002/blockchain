@@ -24,3 +24,16 @@ b4 = Block.next(b3, "Transaction Data...")
 blockchain = [b0, b1, b2, b3, b4]
 
 pp blockchain
+```
+
+
+## Credits
+
+This project was inspired and guided by the tutorial in the following YouTube video:
+
+[![Blockchain Tutorial](http://img.youtube.com/vi/xAHTddYzzdU/0.jpg)](http://www.youtube.com/watch?v=xAHTddYzzdU "Blockchain Tutorial")
+
+We highly recommend checking out the video for a detailed walkthrough of the blockchain concept and how to implement it in Ruby.
+
+Special thanks to the creator of the video for providing the knowledge and inspiration to build this project.
+
